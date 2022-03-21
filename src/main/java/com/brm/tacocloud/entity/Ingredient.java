@@ -1,4 +1,4 @@
-package com.brm.tacocloud;
+package com.brm.tacocloud.entity;
 
 import lombok.Data;
 
